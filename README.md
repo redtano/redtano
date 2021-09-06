@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gaetano Eugenio Piazza
-- 👀 I’m interested in 
+- 👀 I’m interested in Computer Sciences.
 - 🌱 I’m currently learning Ingegneria del Software at the University of Catania
 - 💞️ I’m currently involved in 'squadra' project for the exam above mentioned.
 - 📫 You can reach me through email box: piazza@caltaweb.it
